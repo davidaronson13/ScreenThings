@@ -5862,7 +5862,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/operator/ScreenThings/myThing/screenThing.xcodeproj/</string>
-		<real>336173723.91902697</real>
+		<real>336174231.228203</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18145,7 +18145,7 @@
 				<integer>1123</integer>
 			</dict>
 		</dict>
-		<real>336173723.922144</real>
+		<real>336174231.26980901</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -19360,7 +19360,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{365, 168}, {1156, 908}}</string>
+		<string>{{365, 167}, {1156, 908}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
